@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "title": "Learn German A1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFVG4pmuKMflXKblYWRFyCqPX0jskTb-x9g&usqp=CAU",
+      "sDiscription": "German A1 as in absolute beginner",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "A1-German Certificate after Exam (CEFR)",
+      "cost": "492€ (8 weeks)"
+    },
+    {
+      "id": 2,
+      "title": "Learn German A2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRysjNhV-F1YOLG3AKCq0DD0KEsixL4gg36JA&usqp=CAU",
+      "sDiscription": "German A2 as in absolute beginner",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "A2-German Certificate after Exam (CEFR)",
+      "cost": "492€ (8 weeks)"
+    },
+    {
+      "id": 3,
+      "title": "Learn German B1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJz23uTXx5vrmpj_DW0UcGp516h8PlVqeyVQ&usqp=CAU",
+      "sDiscription": "German B1  as in intermediate",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "B1-German Certificate after Exam (CEFR)",
+      "cost": "500€ (8 weeks)",
+      "group": "best selling"
+    },
+    {
+      "id": 4,
+      "title": "Learn German B2",
+      "image": "https://www.sprachartberlin.de/wp-content/uploads/2015/07/B2-small.jpg",
+      "sDiscription": "German B2  as in intermediate",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "B2-German Certificate after Exam (CEFR)",
+      "cost": "500 (8 weeks)",
+      "group": "best selling"
+    },
+    {
+      "id": 5,
+      "title": "Learn English A1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwO8zTI4t_qSdcFsm8xi1uD_Cn1GkqNq0BZw&usqp=CAU",
+      "sDiscription": "English A1 as in absolute beginner",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "A1-English Certificate after Exam ",
+      "cost": "492€ (8 weeks)"
+    },
+    {
+      "id": 6,
+      "title": "Learn English A2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVQg_V20I7JxPIKGAjeBrmH0WCfsfoNA04PA&usqp=CAU",
+      "sDiscription": "English A2 as in absolute beginner",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "A2-English Certificate after Exam ",
+      "cost": "492€ (8 weeks)"
+    },
+    {
+      "id": 7,
+      "title": "Learn English B1",
+      "image": "https://www.lingoskop.de/wp-content/uploads/2020/07/B1_English.png",
+      "sDiscription": "German B1  as in intermediate",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "B1-English Certificate after Exam ",
+      "cost": "500€ (8 weeks)",
+      "group": "best selling"
+    },
+    {
+      "id": 8,
+      "title": "Learn English B2",
+      "image": "https://www.englishradar.com/wp-content/uploads/2016/04/English-level-B2.png",
+      "sDiscription": "English B2  as in intermediate",
+      "discription": "All beginnings are difficult and you have to start somewhere – even in Berlin. But don’t worry: in our small classes, with a maximum of 18 students, the teachers have time for everyone. ",
+      "duration": "8 weeks",
+      "lesson": "20 lessons per week",
+      "certificate": "B2-English Certificate after Exam ",
+      "cost": "500 (8 weeks)",
+      "group": "best selling"
+    }
+  ]

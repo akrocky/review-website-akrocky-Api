@@ -1,0 +1,23 @@
+[
+{"id":1,
+    "title":"Dentisty",
+    "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsoWHOawheTRZisT9xQktkHxahPDpwjsrYg&usqp=CAU",
+    "title2":"PRIVATE PRACTICE DENTISTRY",
+    "info":"This medical specialty is currently represented by four experienced dentists. The combination of their individual specialist areas ensure a well-rounded, comprehensive and customised dental service for each and every patient. All of the latest materials that have proven absolutely reliable over the past years are available for use according to your wishes. The use of laser technology, multimedia access at the treatment chair, plus oral cavity cameras to easily explain procedures are a matter of course in our hospital. State of the art prophylactic measures, periodontal treatments, and the placement of titanium implants (artificial dental roots) with or without additional bone reconstruction are just some of the options that form the standard offering of our dental service spectrum. The portfolio is complemented by the specialist areas of orthodontics, temporomandibular joint treatment, as well as oral and maxillo-facial surgery. "
+},
+{"id":2,
+    "title":"Urology",
+    "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPHvE7MziH8KOcUbzvUpD-0R1hUEdreygqw&usqp=CAU",
+    "title2":"PRIVATE PRACTICE UROLOGY",
+    "info":"When is a man really a man? When he feels great in his own body! Kidney disease as well as disorders of the urinary tracts or male genitals are a sign of the times in an increasingly ageing population. State of the art endourological, minimally invasive and microsurgical diagnostic and treatment methods in combination with drug therapies provide us with highly effective treatment options. Cross-disciplinary cooperation of various specialties is of critical importance in this field to ensure optimised patient care in accordance with international guidelines."
+},
+{"id":3,
+    "title":"Internal Medicine",
+    "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrHAICqixjqClVUFbN0D_ePhRB1Lzm58MTDQ&usqp=CAU",
+    "title2":"PRIVATE PRACTIVE GENERAL AND INTERNAL MEDICINE ",
+    "info":"We like to get to the bottom of things. Our specialists for internal medicine often search for elusive causes for illnesses hidden deep inside the patient. These include disorders of the heart and circulatory system, the lungs, digestive system and kidneys, or metabolic disorders, life-threatening emergencies and tumours. The services of these specialists also include diagnostics and prevention of infectious "
+   
+}
+
+
+]
